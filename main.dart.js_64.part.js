@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T={
-aZs:function(){return new T.wc(T.ad("sq"))},
+aZM:function(){return new T.wc(T.ad("sq"))},
 wc:function wc(d){this.a=d}},D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([T])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Grua q\xeb mban nj\xeb sandvi\xe7 t\xeb madh me past\xebrm
 gkN:function(){return"Faqja kryesore"},
 gbc:function(){return"Bota"},
 gcq:function(){return"Shtetet e Bashkuara"},
-gaw:function(){return"Politik\xeb"},
+gax:function(){return"Politik\xeb"},
 gkL:function(){return"Biznes"},
 gbb:function(){return"Teknologji"},
 gkO:function(){return"Shkenc\xeb"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feminist\xebt kund\xebr kampeve partiake"},
 gkD:function(){return"Blet\xebt braktisin tokat bujq\xebsore"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(T.wc,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wc":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wc":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["OjpFZ9jRUHJTh9DRmNqxEd78ofA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["t3tx90PYzUjBuUDMpCEcreolamE="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_64.part.js.map

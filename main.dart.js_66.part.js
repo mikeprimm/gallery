@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U={
-aZw:function(){return new U.wf(T.ad("sw"))},
+aZQ:function(){return new U.wf(T.ad("sw"))},
 wf:function wf(d){this.a=d}},Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([U])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Mwanamke aliyeshika sandiwichi kubwa ya pastrami"},
 gkN:function(){return"Ukurasa wa Mbele"},
 gbc:function(){return"Dunia"},
 gcq:function(){return"Marekani"},
-gaw:function(){return"Siasa"},
+gax:function(){return"Siasa"},
 gkL:function(){return"Biashara"},
 gbb:function(){return"Teknolojia"},
 gkO:function(){return"Sayansi"},
@@ -694,7 +694,7 @@ gkF:function(){return"Watetezi wa Nadharia ya Haki na Usawa wa Wanawake Wanavyop
 gkD:function(){return"Upungufu wa Nyuki wa Shambani"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(U.wf,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wf":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wf":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["MoKsqIIX0LdkHtzey9eECMFp6Zw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["CoqU46G70Jo+qPue9SaLn87zKdI="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_66.part.js.map

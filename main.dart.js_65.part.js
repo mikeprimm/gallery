@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B={
-aZv:function(){return new B.we(T.ad("sv"))},
+aZP:function(){return new B.we(T.ad("sv"))},
 we:function we(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([B])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Kvinna som h\xe5ller en stor pastramimacka"},
 gkN:function(){return"Startsida"},
 gbc:function(){return"V\xe4rlden"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Ekonomi"},
 gbb:function(){return"Teknik"},
 gkO:function(){return"Vetenskap"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feminister tar upp kampen mot partipolitiken"},
 gkD:function(){return"Bina f\xf6rsvinner fr\xe5n jordbruksmarker"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.we,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","we":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","we":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["GHRqmT0SJfvNaDtmxpiY4d1IlRw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["ywkCSkIyIuTVeMfcJcE0qLyrSeo="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_65.part.js.map

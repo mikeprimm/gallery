@@ -1,8 +1,8 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E={
-aY8:function(d){return new E.qc(T.ad(d))},
-aY9:function(){return new E.uY(T.ad("de_AT"))},
-aYa:function(){return new E.uZ(T.ad("de_CH"))},
+aYs:function(d){return new E.qc(T.ad(d))},
+aYt:function(){return new E.uY(T.ad("de_AT"))},
+aYu:function(){return new E.uZ(T.ad("de_CH"))},
 qc:function qc(d){this.a=d},
 uY:function uY(d){this.a=d},
 uZ:function uZ(d){this.a=d}},K,O,Q,X,F
@@ -675,7 +675,7 @@ gf_:function(){return"Frau mit riesigem Pastrami-Sandwich"},
 gkN:function(){return"Titelseite"},
 gbc:function(){return"Welt"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Wirtschaft"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"Wissenschaft"},
@@ -1339,7 +1339,7 @@ gf_:function(){return"Frau mit riesigem Pastrami-Sandwich"},
 gkN:function(){return"Titelseite"},
 gbc:function(){return"Welt"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Wirtschaft"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"Wissenschaft"},
@@ -2003,7 +2003,7 @@ gf_:function(){return"Frau mit riesigem Pastrami-Sandwich"},
 gkN:function(){return"Titelseite"},
 gbc:function(){return"Welt"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Wirtschaft"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"Wissenschaft"},
@@ -2027,7 +2027,7 @@ gkD:function(){return"Bienen auf dem Land in Gefahr"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit,x=a.inheritMany
 y(E.qc,X.O)
 x(E.qc,[E.uY,E.uZ])})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","qc":{"O":[]},"uY":{"O":[]},"uZ":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","qc":{"O":[]},"uY":{"O":[]},"uZ":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["GnLVnb8MTClHenSYJtVOTu9iT6A="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["wjaqBzls6/Fys1GOOHbm2Y1I0cU="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_3.part.js.map

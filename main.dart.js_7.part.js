@@ -1,8 +1,8 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z={
-aZk:function(d){return new Z.qg(T.ad(d))},
-aZl:function(){return new Z.w5(T.ad("pt_BR"))},
-aZm:function(){return new Z.w6(T.ad("pt_PT"))},
+aZE:function(d){return new Z.qg(T.ad(d))},
+aZF:function(){return new Z.w5(T.ad("pt_BR"))},
+aZG:function(){return new Z.w6(T.ad("pt_PT"))},
 qg:function qg(d){this.a=d},
 w5:function w5(d){this.a=d},
 w6:function w6(d){this.a=d}},E,K,O,Q,X,F
@@ -675,7 +675,7 @@ gf_:function(){return"Mulher segurando um sandu\xedche de pastrami"},
 gkN:function(){return"Primeira p\xe1gina"},
 gbc:function(){return"Mundo"},
 gcq:function(){return"EUA"},
-gaw:function(){return"Pol\xedtica"},
+gax:function(){return"Pol\xedtica"},
 gkL:function(){return"Neg\xf3cios"},
 gbb:function(){return"Tecnologia"},
 gkO:function(){return"Ci\xeancia"},
@@ -1339,7 +1339,7 @@ gf_:function(){return"Mulher segurando um sandu\xedche de pastrami"},
 gkN:function(){return"Primeira p\xe1gina"},
 gbc:function(){return"Mundo"},
 gcq:function(){return"EUA"},
-gaw:function(){return"Pol\xedtica"},
+gax:function(){return"Pol\xedtica"},
 gkL:function(){return"Neg\xf3cios"},
 gbb:function(){return"Tecnologia"},
 gkO:function(){return"Ci\xeancia"},
@@ -2003,7 +2003,7 @@ gf_:function(){return"Mulher a segurar numa sandu\xedche de pastrami enorme"},
 gkN:function(){return"Primeira p\xe1gina"},
 gbc:function(){return"Mundo"},
 gcq:function(){return"EUA"},
-gaw:function(){return"Pol\xedtica"},
+gax:function(){return"Pol\xedtica"},
 gkL:function(){return"Neg\xf3cios"},
 gbb:function(){return"Tecnologia"},
 gkO:function(){return"Ci\xeancia"},
@@ -2027,7 +2027,7 @@ gkD:function(){return"Abelhas em n\xfamero reduzido nas terras de cultivo"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit,x=a.inheritMany
 y(Z.qg,X.O)
 x(Z.qg,[Z.w5,Z.w6])})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","qg":{"O":[]},"w5":{"O":[]},"w6":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","qg":{"O":[]},"w5":{"O":[]},"w6":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["PEHP0qAS8PqmpaSk6uEYtnbcTK0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["mkdmLTOIEi858Izlfxw9A+DT5Z0="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_7.part.js.map

@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y={
-aYU:function(){return new Y.vF(T.ad("hu"))},
+aZd:function(){return new Y.vF(T.ad("hu"))},
 vF:function vF(d){this.a=d}},L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([Y])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"\xd3ri\xe1si pastramis szendvicset tart\xf3 n\u0151"},
 gkN:function(){return"C\xedmlap"},
 gbc:function(){return"Vil\xe1g"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politika"},
+gax:function(){return"Politika"},
 gkL:function(){return"\xdczlet"},
 gbb:function(){return"Technol\xf3gia"},
 gkO:function(){return"Tudom\xe1ny"},
@@ -694,7 +694,7 @@ gkF:function(){return"A feminist\xe1k p\xe1rtot v\xe1lasztanak"},
 gkD:function(){return"Kev\xe9s a m\xe9h a gazdas\xe1gokban"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(Y.vF,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vF":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vF":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["YKtJ2QGDGf0cywIYtD1hB9UbZ/8="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["ZYhSe1UCFCUfUPe99HGy2lOwY/s="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_32.part.js.map

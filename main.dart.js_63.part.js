@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D={
-aZr:function(){return new D.wb(T.ad("sl"))},
+aZL:function(){return new D.wb(T.ad("sl"))},
 wb:function wb(d){this.a=d}},Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([D])
 C=c[0]
@@ -670,7 +670,7 @@ gf_:function(){return"\u017denska, ki dr\u017ei ogromen sendvi\u010d s pastramij
 gkN:function(){return"Prva stran"},
 gbc:function(){return"Svet"},
 gcq:function(){return"Zdru\u017eene dr\u017eave"},
-gaw:function(){return"Politika"},
+gax:function(){return"Politika"},
 gkL:function(){return"Posel"},
 gbb:function(){return"Tehnologija"},
 gkO:function(){return"Znanost"},
@@ -693,7 +693,7 @@ gkF:function(){return"Feministke nad strankarstvo"},
 gkD:function(){return"Primanjkljaj \u010debel na de\u017eeli"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(D.wb,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wb":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wb":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["CNHA20kfazwWEU4WsteFkG1OxFQ="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["aVgAX5sRzGEP34Jn94tlJ47Kuu4="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_63.part.js.map

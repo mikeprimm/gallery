@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B={
-aXT:function(){return new B.uJ(T.ad("af"))},
+aYc:function(){return new B.uJ(T.ad("af"))},
 uJ:function uJ(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([B])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Vrou wat 'n yslike pastramitoebroodjie vashou"},
 gkN:function(){return"Voorblad"},
 gbc:function(){return"W\xeareld"},
 gcq:function(){return"VSA"},
-gaw:function(){return"Politiek"},
+gax:function(){return"Politiek"},
 gkL:function(){return"Besigheid"},
 gbb:function(){return"Tegnologie"},
 gkO:function(){return"Wetenskap"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministe takel partydigheid"},
 gkD:function(){return"Terkort aan landboubye"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.uJ,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uJ":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uJ":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["rIrLgGMmzIl2ZU0pZw2D77c06cY="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["G30RyJOJswpuimwmWYAR0jA2ViY="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_9.part.js.map

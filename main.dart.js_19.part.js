@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D={
-aY7:function(){return new D.uX(T.ad("da"))},
+aYr:function(){return new D.uX(T.ad("da"))},
 uX:function uX(d){this.a=d}},Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([D])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Kvinde med en k\xe6mpe pastramisandwich"},
 gkN:function(){return"Forside"},
 gbc:function(){return"Verden"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Erhverv"},
 gbb:function(){return"Teknologi"},
 gkO:function(){return"Videnskab"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feminister g\xf8r op med partilinjen"},
 gkD:function(){return"Landbruget mangler bier"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(D.uX,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uX":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uX":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["M3aCEebqDCBzXXfgkvtPDj+2lXw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["Xlz3sZTIU8QrsbpOL/SCbgE5hrU="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_19.part.js.map

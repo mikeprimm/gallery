@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D={
-aY0:function(){return new D.uQ(T.ad("az"))},
+aYk:function(){return new D.uQ(T.ad("az"))},
 uQ:function uQ(d){this.a=d}},Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([D])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"\u018flind\u0259 b\xf6y\xfck basd\u0131rmal\u0131 sandvi\x
 gkN:function(){return"\xd6n S\u0259hif\u0259"},
 gbc:function(){return"D\xfcnya"},
 gcq:function(){return"AB\u015e"},
-gaw:function(){return"Siyas\u0259t"},
+gax:function(){return"Siyas\u0259t"},
 gkL:function(){return"Biznes"},
 gbb:function(){return"Texnologiya"},
 gkO:function(){return"Elm"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministl\u0259r partiya t\u0259r\u0259fin\u0259 ke\xe7m\u
 gkD:function(){return"\xc7i\xe7\u0259kl\u0259m\u0259 d\xf6vr\xfcn\xfcn ar\u0131lara t\u0259siri"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(D.uQ,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uQ":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uQ":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["joS59I9DVsxM+y8hSL0abEZzFJc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["O1OCxC5oxWcjtcW7K2GPnMirG2w="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_12.part.js.map

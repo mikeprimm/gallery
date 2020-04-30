@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S={
-aYX:function(){return new S.vI(T.ad("is"))},
+aZg:function(){return new S.vI(T.ad("is"))},
 vI:function vI(d){this.a=d}},T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([S])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Kona sem heldur \xe1 st\xf3rri nautakj\xf6tssamloku"},
 gkN:function(){return"Fors\xed\xf0a"},
 gbc:function(){return"Heimurinn"},
 gcq:function(){return"Bandar\xedkin"},
-gaw:function(){return"P\xf3lit\xedk"},
+gax:function(){return"P\xf3lit\xedk"},
 gkL:function(){return"Vi\xf0skipti"},
 gbb:function(){return"T\xe6kni"},
 gkO:function(){return"V\xedsindi"},
@@ -694,7 +694,7 @@ gkF:function(){return"Fem\xednistar \xe1 m\xf3ti flokkshollustu"},
 gkD:function(){return"B\xfdflugur vantar \xed b\xfdflugnar\xe6kt"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(S.vI,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vI":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vI":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["ytEhCI6rVdV6Q+MtKR1UfDuJaG0="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["WBdBecxUZOY943h0uMOl6qJM1J8="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_35.part.js.map

@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K={
-aZg:function(){return new K.w1(T.ad("nl"))},
+aZA:function(){return new K.w1(T.ad("nl"))},
 w1:function w1(d){this.a=d}},O,Q,X,F
 a.setFunctionNamesIfNecessary([K])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Vrouw houdt een enorme pastrami-sandwich vast"},
 gkN:function(){return"Voorpagina"},
 gbc:function(){return"Wereld"},
 gcq:function(){return"Verenigde Staten"},
-gaw:function(){return"Politiek"},
+gax:function(){return"Politiek"},
 gkL:function(){return"Zakelijk"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"Wetenschap"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministen pakken de partijgeest aan"},
 gkD:function(){return"Bijentekort in landbouwgebied"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(K.w1,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","w1":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","w1":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["fGlZge4GNXlxIfiak1OUJQk0LJE="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["3PLLVEToAyfEGXFwWgZLPpCLjxs="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_55.part.js.map

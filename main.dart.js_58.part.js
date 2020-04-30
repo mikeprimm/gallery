@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F={
-aZj:function(){return new F.w4(T.ad("pl"))},
+aZD:function(){return new F.w4(T.ad("pl"))},
 w4:function w4(d){this.a=d}}
 a.setFunctionNamesIfNecessary([F])
 C=c[0]
@@ -669,7 +669,7 @@ gf_:function(){return"Kobieta trzymaj\u0105ca du\u017c\u0105 kanapk\u0119 z\xa0p
 gkN:function(){return"Pierwsza strona"},
 gbc:function(){return"\u015awiat"},
 gcq:function(){return"Stany Zjednoczone"},
-gaw:function(){return"Polityka"},
+gax:function(){return"Polityka"},
 gkL:function(){return"Biznes"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"Nauka"},
@@ -692,7 +692,7 @@ gkF:function(){return"Feministki a\xa0stronniczo\u015b\u0107"},
 gkD:function(){return"Coraz mniej pszcz\xf3\u0142 na polach uprawnych"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(F.w4,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","w4":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","w4":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["CRZ7RMZESSaNiy4dNrnNRm0Diqo="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["ZIfI+50+Pfxk2E8tzqbXhmmm5BA="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_58.part.js.map

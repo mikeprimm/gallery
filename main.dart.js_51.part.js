@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U={
-aZc:function(){return new U.vY(T.ad("ms"))},
+aZw:function(){return new U.vY(T.ad("ms"))},
 vY:function vY(d){this.a=d}},Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([U])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Wanita memegang sandwic pastrami yang sangat besar"},
 gkN:function(){return"Halaman Depan"},
 gbc:function(){return"Dunia"},
 gcq:function(){return"AS"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Perniagaan"},
 gbb:function(){return"Teknologi"},
 gkO:function(){return"Sains"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feminists Take On Partisanship"},
 gkD:function(){return"Farmland Bees In Short Supply"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(U.vY,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vY":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vY":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["0EOUUOkat3AWPq95HhgX2aSqGaw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["ZfIwawOeJrYWLbPl9yk60bNlIrc="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_51.part.js.map

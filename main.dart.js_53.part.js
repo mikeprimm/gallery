@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L={
-aZe:function(){return new L.w_(T.ad("nb"))},
+aZy:function(){return new L.w_(T.ad("nb"))},
 w_:function w_(d){this.a=d}},M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([L])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Kvinne som holder et enormt pastramism\xf8rbr\xf8d"},
 gkN:function(){return"Forside"},
 gbc:function(){return"Verden"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politikk"},
+gax:function(){return"Politikk"},
 gkL:function(){return"N\xe6ringsliv"},
 gbb:function(){return"Teknologi"},
 gkO:function(){return"Vitenskap"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministers mening om partiskhet"},
 gkD:function(){return"Mangel p\xe5 bier til jordbruket"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(L.w_,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","w_":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","w_":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["c4hy9nZP/qGmiK943T0b4xN2UQU="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["41eD3o/LMLMyalP1JWtdL5SlFOk="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_53.part.js.map

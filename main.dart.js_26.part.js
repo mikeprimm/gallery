@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F={
-aYO:function(){return new F.vz(T.ad("gl"))},
+aZ7:function(){return new F.vz(T.ad("gl"))},
 vz:function vz(d){this.a=d}}
 a.setFunctionNamesIfNecessary([F])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Muller que suxeita un gran s\xe1ndwich de pastrami"},
 gkN:function(){return"Portada"},
 gbc:function(){return"Internacional"},
 gcq:function(){return"Estados Unidos"},
-gaw:function(){return"Pol\xedtica"},
+gax:function(){return"Pol\xedtica"},
 gkL:function(){return"Negocios"},
 gbb:function(){return"Tecnolox\xeda"},
 gkO:function(){return"Ciencia"},
@@ -694,7 +694,7 @@ gkF:function(){return"O feminismo \xfanese \xe1 causa"},
 gkD:function(){return"As abellas das terras de cultivo est\xe1n en perigo de extinci\xf3n"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(F.vz,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vz":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vz":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["eR3sI3uKlilWFKcHf0Z5Lm93gD4="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["jsgkNMRBffB+8xGpG2Tnpw0LDcw="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_26.part.js.map

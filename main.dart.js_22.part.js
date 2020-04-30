@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E={
-aYH:function(){return new E.vt(T.ad("eu"))},
+aZ0:function(){return new E.vt(T.ad("eu"))},
 vt:function vt(d){this.a=d}},K,O,Q,X,F
 a.setFunctionNamesIfNecessary([E])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Emakume bat pastrami-sandwich bat eskuan duela"},
 gkN:function(){return"Orri nagusia"},
 gbc:function(){return"Mundua"},
 gcq:function(){return"Ameriketako Estatu Batuak"},
-gaw:function(){return"Politika"},
+gax:function(){return"Politika"},
 gkL:function(){return"Negozioak"},
 gbb:function(){return"Teknologia"},
 gkO:function(){return"Zientzia"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministak alderdi baten alde jarri dira"},
 gkD:function(){return"Soroetako erleak desagertzen ari dira"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(E.vt,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vt":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vt":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["G37rWQQVZZBqprjzRDFg0lzRKOw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["gN/XejQgl/5Ev3HItw3gxPB+SkE="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_22.part.js.map

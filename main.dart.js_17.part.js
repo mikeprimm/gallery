@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B={
-aY5:function(){return new B.uV(T.ad("ca"))},
+aYp:function(){return new B.uV(T.ad("ca"))},
 uV:function uV(d){this.a=d}},A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([B])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Dona amb un entrep\xe0 de pastrami enorme"},
 gkN:function(){return"Portada"},
 gbc:function(){return"Internacional"},
 gcq:function(){return"EUA"},
-gaw:function(){return"Pol\xedtica"},
+gax:function(){return"Pol\xedtica"},
 gkL:function(){return"Negocis"},
 gbb:function(){return"Tecnologia"},
 gkO:function(){return"Ci\xe8ncia"},
@@ -694,7 +694,7 @@ gkF:function(){return"El feminisme pren partit"},
 gkD:function(){return"Escassetat d\u2019abelles de camp"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(B.uV,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uV":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uV":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["DAGJQO2S2lnOy2clSLo/e+JvHOw="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["7Y7EiEStJqTC3HaVK00q0dq2wWY="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_17.part.js.map

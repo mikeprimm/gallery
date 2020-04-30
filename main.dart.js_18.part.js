@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T,D,Z,E,K,O={
-aY6:function(){return new O.uW(T.ad("cs"))},
+aYq:function(){return new O.uW(T.ad("cs"))},
 uW:function uW(d){this.a=d}},Q,X,F
 a.setFunctionNamesIfNecessary([O])
 C=c[0]
@@ -670,7 +670,7 @@ gf_:function(){return"\u017dena dr\u017e\xedc\xed velk\xfd sendvi\u010d pastrami
 gkN:function(){return"Tituln\xed str\xe1nka"},
 gbc:function(){return"Sv\u011bt"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politika"},
+gax:function(){return"Politika"},
 gkL:function(){return"Byznys"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"V\u011bda"},
@@ -693,7 +693,7 @@ gkF:function(){return"Feministky broj\xed proti p\u0159edpojatosti"},
 gkD:function(){return"N\xedzk\xe9 stavy v\u010delstev pro opylov\xe1n\xed zem\u011bd\u011blsk\xfdch plodin"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(O.uW,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uW":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","uW":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["Wy6nsvieck5+rbO1CXWSHVv25Ec="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["LK4LfWN4gh2zJ1cQb2H2ur+z5WQ="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_18.part.js.map

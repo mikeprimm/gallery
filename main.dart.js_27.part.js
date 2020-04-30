@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S={
-aYP:function(){return new S.vA(T.ad("gsw"))},
+aZ8:function(){return new S.vA(T.ad("gsw"))},
 vA:function vA(d){this.a=d}},T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([S])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Frau mit riesigem Pastrami-Sandwich"},
 gkN:function(){return"Titelseite"},
 gbc:function(){return"Welt"},
 gcq:function(){return"USA"},
-gaw:function(){return"Politik"},
+gax:function(){return"Politik"},
 gkL:function(){return"Wirtschaft"},
 gbb:function(){return"Technologie"},
 gkO:function(){return"Wissenschaft"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministinnen bek\xe4mpfen Vetternwirtschaft"},
 gkD:function(){return"Bienen auf dem Land in Gefahr"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(S.vA,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vA":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vA":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["udJTNao3NMk/rD1z46LOhkwCO74="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["g4lgeo9kDFX3ZcapckEqO7zAfLI="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_27.part.js.map

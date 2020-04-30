@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A={
-aZB:function(){return new A.wk(T.ad("tr"))},
+aZV:function(){return new A.wk(T.ad("tr"))},
 wk:function wk(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([A])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"B\xfcy\xfck past\u0131rmal\u0131 sandvi\xe7 tutan kad\u013
 gkN:function(){return"\xd6n Sayfa"},
 gbc:function(){return"D\xfcnya"},
 gcq:function(){return"ABD"},
-gaw:function(){return"Siyaset"},
+gax:function(){return"Siyaset"},
 gkL:function(){return"\u0130\u015f D\xfcnyas\u0131"},
 gbb:function(){return"Teknoloji"},
 gkO:function(){return"Bilim"},
@@ -694,7 +694,7 @@ gkF:function(){return"Partizanl\u0131kta Feministler \xd6ne \xc7\u0131k\u0131yor
 gkD:function(){return"\xc7iftlik Ar\u0131lar\u0131nda Azalma"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(A.wk,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wk":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wk":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["exgpH9URr5OsP29xUuj9jyE1rQc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["qL34IBntWuJO47sZmoAWg3CLY8A="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_71.part.js.map

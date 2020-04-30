@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A={
-aYY:function(){return new A.vJ(T.ad("it"))},
+aZh:function(){return new A.vJ(T.ad("it"))},
 vJ:function vJ(d){this.a=d}},G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([A])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Donna con un enorme pastrami sandwich in mano"},
 gkN:function(){return"Prima pagina"},
 gbc:function(){return"Dal mondo"},
 gcq:function(){return"Stati Uniti"},
-gaw:function(){return"Politica"},
+gax:function(){return"Politica"},
 gkL:function(){return"Economia"},
 gbb:function(){return"Tecnologia"},
 gkO:function(){return"Scienza"},
@@ -694,7 +694,7 @@ gkF:function(){return"Punto di vista delle femministe sulla partigianeria"},
 gkD:function(){return"Le api scarseggiano"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(A.vJ,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vJ":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vJ":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["4X0y7V5gDDuGxYolz62tRRo/SqI="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["FRDNyMIPbR9E7rJWOok2Fnw8R0c="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_36.part.js.map

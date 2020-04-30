@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G,V,S,T={
-aZE:function(){return new T.wn(T.ad("uz"))},
+aZY:function(){return new T.wn(T.ad("uz"))},
 wn:function wn(d){this.a=d}},D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([T])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Pastromali katta sendvich ushlab turgan ayol"},
 gkN:function(){return"Bosh sahifa"},
 gbc:function(){return"Dunyo"},
 gcq:function(){return"AQSH"},
-gaw:function(){return"Siyosat"},
+gax:function(){return"Siyosat"},
 gkL:function(){return"Biznes"},
 gbb:function(){return"Texnologiya"},
 gkO:function(){return"Ilm-fan"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministlar partizanlikka o\u02bbtmoqda"},
 gkD:function(){return"Fermalardagi arilar ta\u02bcminoti yetishmayapti"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(T.wn,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wn":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","wn":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["N/kX4H2PnT9RmYWvoOQjyH18ywA="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["OYt1cDtnNdTNKZ91oM2kJxxUfBM="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_74.part.js.map

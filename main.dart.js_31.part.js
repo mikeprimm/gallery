@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M,N,R,B,A,G={
-aYT:function(){return new G.vE(T.ad("hr"))},
+aZc:function(){return new G.vE(T.ad("hr"))},
 vE:function vE(d){this.a=d}},V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([G])
 C=c[0]
@@ -669,7 +669,7 @@ gf_:function(){return"\u017dena dr\u017ei ogroman sendvi\u010d s dimljenom goved
 gkN:function(){return"Naslovnica"},
 gbc:function(){return"Svijet"},
 gcq:function(){return"SAD"},
-gaw:function(){return"Politika"},
+gax:function(){return"Politika"},
 gkL:function(){return"Biznis"},
 gbb:function(){return"Tehnologija"},
 gkO:function(){return"Znanost"},
@@ -692,7 +692,7 @@ gkF:function(){return"Feministi\u010dki pogled na strana\u010dje"},
 gkD:function(){return"Doma\u0107im p\u010delama nedostaje izvora"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(G.vE,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vE":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vE":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["EmjSIGrjtzTo9cpBbrOYnPzmBag="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["dUNNJ8bU+DgGqd0Hs6iSINBnric="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_31.part.js.map

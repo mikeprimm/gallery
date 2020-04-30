@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,U,Y,L,M={
-aYJ:function(){return new M.vv(T.ad("fi"))},
+aZ2:function(){return new M.vv(T.ad("fi"))},
 vv:function vv(d){this.a=d}},N,R,B,A,G,V,S,T,D,Z,E,K,O,Q,X,F
 a.setFunctionNamesIfNecessary([M])
 C=c[0]
@@ -671,7 +671,7 @@ gf_:function(){return"Nainen pit\xe4\xe4 k\xe4dess\xe4\xe4n suurta pastrami-voil
 gkN:function(){return"Etusivu"},
 gbc:function(){return"Ulkomaat"},
 gcq:function(){return"Yhdysvallat"},
-gaw:function(){return"Politiikka"},
+gax:function(){return"Politiikka"},
 gkL:function(){return"Liiketoiminta"},
 gbb:function(){return"Tekniikka"},
 gkO:function(){return"Tiede"},
@@ -694,7 +694,7 @@ gkF:function(){return"Feministit kyseenalaistavat puolueellisuuden"},
 gkD:function(){return"Maaseudun mehil\xe4iskato"}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(M.vv,X.O)})()
-H.bb(b.typeUniverse,JSON.parse('{"be":"C","bo":"C","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vv":{"O":[]}}'))
+H.bc(b.typeUniverse,JSON.parse('{"be":"B","bo":"B","bg":"aY","bf":"m","bv":"m","bx":"m","bd":"D","bp":"D","bB":"aW","bh":"M","bt":"M","by":"F","bn":"F","bq":"aU","bA":"aQ","bj":"aX","bm":"aT","bi":"Z","bz":"Z","bu":"b1","bs":"b0","br":"b_","bk":"av","bl":"aR","vv":{"O":[]}}'))
 0}
-$__dart_deferred_initializers__["Jl1/k5DtN1PiIPyencHgUEH/MGc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["LpuP5bWDn/a43+CCHehi5U7XwFM="] = $__dart_deferred_initializers__.current
 //# sourceMappingURL=main.dart.js_24.part.js.map
